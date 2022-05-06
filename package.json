@@ -50,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "check-outdated": "^2.10.2",
     "gh-pages": "^3.2.3"
   }
 }
